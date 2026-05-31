@@ -1,5 +1,5 @@
 # Pladder
-Multi agent coding generator and orchestrator with strongly strongly typed contract for sub agents.
+Multi agent coding generator and orchestrator with strongly strongly typed contracts for sub agents.
 
 A rust application design plan (could be low level design plan LLD or high level) will be designed and submitted to supervisor agent. 
 
